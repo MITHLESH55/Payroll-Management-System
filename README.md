@@ -1,5 +1,6 @@
 Payroll Management System
 
+
 Overview
 
 The Payroll Management System is a Java-based application that provides a user-friendly interface for managing employee payroll data. Built using Swing for the graphical user interface (GUI) and MySQL for the backend, this system allows users to add, view, and update employee records, calculate payrolls, and generate reports.
